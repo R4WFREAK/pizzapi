@@ -1,1 +1,3 @@
-pizzapi
+#pizzapi
+
+A simple pizza tracker.
